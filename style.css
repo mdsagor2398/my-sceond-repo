@@ -7,3 +7,15 @@ p{
 .National{
     background-color: greenyellow;
 }
+.Bazar{
+    padding: 20px;
+    border: solid 20px;
+    margin: 15px 10px 10px 10px;
+    color: rgb(0, 184, 55);
+    inline-size: 100px;
+    background-color: rgb(240, 6, 6);
+    
+}
+#vip{
+    color: magenta;
+}
